@@ -1,0 +1,18 @@
+# Raw PISA source file
+*.SAV
+*.sav
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+pisa_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
